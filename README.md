@@ -14,4 +14,4 @@ A thought experiment which can lead to experimentation on the topology of real n
 
 [game01](http://github.com/ericung/game01)
 
-* *You have to want to learn science, technology, engineering, and mathematics in order to use it properly.* *
+*You have to want to learn science, technology, engineering, and mathematics in order to use it properly and so this provides some idea for motivation to do so.*
