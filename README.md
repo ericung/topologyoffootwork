@@ -1,6 +1,6 @@
 # A Topology of Footwork
 
-A thought experiment which can lead to experimentation on the topology of real numbers.
+A thought experiment which can lead to experimentation on the topology of real numbers using a scenario from ![game01](http://github.com/ericung/game01).
 
 ![01](Resources/01.jpg)/
 ![02](Resources/02.jpg)/
